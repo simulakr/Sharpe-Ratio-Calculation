@@ -1,0 +1,5 @@
+BTC (3 ATR)
+ETH (2 ATR)
+SOL (2 ATR)
+XRP (2 ATR)
+DOGE (2 ATR)
